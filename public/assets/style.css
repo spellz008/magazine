@@ -40,7 +40,7 @@
     border-left: 4px solid purple;
 }
 .hero-text h1:hover{
-    color:purple;
+    color:pink;
     transform: scale(1.1);
     border-left: 4px solid pink;
 }
